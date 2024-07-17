@@ -1,0 +1,10 @@
+.env
+.history
+*egg-info
+tmp*
+*.pyc
+data/**/*.png
+data/**/*.csv
+data/**/*.parquet
+data/**/*.duckdb
+data/**/*.geojson
